@@ -1,0 +1,39 @@
+:root {
+  /* font weight */
+  --thick-font: 900;
+  --normal-font: 700;
+  --light-font: 500;
+
+  /* colors */
+  /* --black: ; */
+  /* --white: ; */
+  /* --primary: ; */
+  /* --warming: ; */
+  /* --secondary: ; */
+
+  /* border radius */
+  --rounded-angle: 5px;
+  --rounded-side: 10px;
+  --cirle: 50%;
+
+  /* border */
+  --thick-primary-border: 3px solid var(--primary);
+  --normal-primary-border: 2px solid var(--primary);
+  --light-primary-border: 1px solid var(--primary);
+  --thick-white-border: 3px solid var(--white);
+  --normal-white-border: 2px solid var(--white);
+  --light-white-border: 1px solid var(--white);
+
+  /* padding */
+  --small-padding: 5px;
+  --normal-padding: 10px;
+  --large-padding: 15px;
+
+  /* background */
+  --transparent-black-bg: rgb(0, 0, 0, 0.2);
+  --transparent-primary-bg: #3a85ffcc;
+
+  /* text */
+  --small-text-size: 15px;
+  --normal-text-size: 20px;
+}
